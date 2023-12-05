@@ -1,6 +1,6 @@
 # 안녕하세요! 👋
 
-저는 축구를 좋아하는 UJI3843입니다. 여기에 몇 장의 축구 사진을 공유하려고 합니다.
+저는 축구를 좋아하는 UJIN3843입니다. 여기에 몇 장의 축구 사진을 공유하려고 합니다.
 
 <img src="https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="축구 이미지" width="500" height="300">
 <img src="https://images.pexels.com/photos/978695/pexels-photo-978695.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="축구 이미지" width="500" height="300">
